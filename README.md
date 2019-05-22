@@ -1,11 +1,13 @@
 Yii 2.0 Community Cookbook
 ==========================
 
-Is just a fork so github pages can be used for viewing, last update 22 Mai 2019.
+Is just a fork so github pages can be used for viewing, for this folder books has been renamed to docs. Last update 22 Mai 2019.
+
+
 
 This repository hosts an OpenSource book full of tips and tricks about [Yii 2.0](http://www.yiiframework.com/) PHP framework.
 
-![Cover](book/images/cover.jpg)
+![Cover](docs/images/cover.jpg)
 
 [Here's the table of contents](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md).
 
